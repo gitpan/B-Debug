@@ -8,3 +8,5 @@ META.yml
 README
 t/debug.t
 t/pod.t
+META.json                                Module JSON meta-data (added by MakeMaker)
+SIGNATURE                                Public-key signature (added by MakeMaker)
