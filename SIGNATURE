@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.68.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,20 +15,20 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 be0627fff2e8aef3d2a14d5d7486babc8a4873ba Artistic
-SHA1 49ec250049fd2bc269fa3b9f54d966f4894f2422 Changes
+SHA1 d147cb23d9e4d1063145f2d2c751e28cbe7d7712 Changes
 SHA1 1fa102688dd2d79dbf4cf269aabd2e5482ab7734 Copying
-SHA1 d918106a14127eb77cb688100eed8dc83d36bc1e Debug.pm
+SHA1 66ada1ab5b34211f9b6c6f0a20671388b3865386 Debug.pm
 SHA1 519ae1bbc256ef9c36d7e29ec14f3cf13e01a633 MANIFEST
-SHA1 4a99b84228be6f9ab9de63cf5e12a6d9d6d5ab48 META.json
-SHA1 084934050e9d8bfd4f22b48156c740443a962c5f META.yml
-SHA1 43f7bbea867969b762c4c9c207b378ad83525e6f Makefile.PL
+SHA1 17968c4600555946f8ef9a80a365546d34dbc828 META.json
+SHA1 3bc018e08df3c9c8abda7d8d767216075193e0d5 META.yml
+SHA1 968849a8d3b3f3c9cede3e8d5ae61ff728e19193 Makefile.PL
 SHA1 5aabc641f5955cb9fc0e96193f11b3e32530ae3f README
 SHA1 c18e2a0cd75e22b7d36ef18086f6168560d98acf t/debug.t
 SHA1 8e6c77dd1d7e2bb99d62e199e1b19b6090e405f5 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG v1.4.15 (GNU/Linux)
 
-iEYEARECAAYFAlAuQIMACgkQmm2SYo/9yUJOdQCggVkC7gxbcAx7li8BfvTwxmYY
-dswAoI1pLoLe1G13PuGCD9mlq3KmwO7c
-=PtnU
+iEYEARECAAYFAlJ76oYACgkQmm2SYo/9yUIO7QCfQNN4X6Q9TGSuoLQM6oiaD71k
+ueMAn1L07C1LuTjLF4NEz7tWLQ4eweiQ
+=Tb2G
 -----END PGP SIGNATURE-----
