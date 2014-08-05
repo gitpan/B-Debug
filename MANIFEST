@@ -3,10 +3,10 @@ Changes
 Copying
 Debug.pm
 MANIFEST
-Makefile.PL
+META.json
 META.yml
+Makefile.PL
 README
 t/debug.t
 t/pod.t
 SIGNATURE                                Public-key signature (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)

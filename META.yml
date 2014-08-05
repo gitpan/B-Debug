@@ -22,4 +22,4 @@ recommends:
 requires:
   B: 0
   Test::More: 0
-version: 1.20
+version: 1.21
