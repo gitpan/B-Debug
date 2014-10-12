@@ -3,23 +3,23 @@ abstract: 'print debug info about ops'
 author:
   - 'Malcolm Beattie <mbeattie@sable.ox.ac.uk>, Reini Urban <rurban@cpan.org>'
 build_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 configure_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.88, CPAN::Meta::Converter version 2.132140'
+generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142690'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: B-Debug
 no_index:
   directory:
     - t
     - inc
 recommends:
-  B::Flags: 0.04
+  B::Flags: '0.04'
 requires:
-  B: 0
-  Test::More: 0
-version: 1.21
+  B: '0'
+  Test::More: '0'
+version: '1.22'
